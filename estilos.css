@@ -265,7 +265,7 @@ footer  .contenedor{
 }
 
 .mision{
-    background-image: url(../img/visionimg2.png);
+    background-image: url(visionimg2.png);
     margin: 2%;
     display: flex;
     flex-wrap: wrap;
@@ -275,7 +275,7 @@ footer  .contenedor{
 }
 
 .vision{
-    background-image: url(../img/visionimg2.png);
+    background-image: url(visionimg2.png);
     margin: 2%;
     display: flex;
     flex-wrap: wrap;
